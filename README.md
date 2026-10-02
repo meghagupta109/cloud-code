@@ -1,2 +1,0 @@
-# cloud-code
-Test code
